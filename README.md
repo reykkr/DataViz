@@ -4,15 +4,21 @@ Welcome to my DataViz repository! Here, I showcase my data visualization project
 Skills Demonstrated
 
 Data Modeling: Structuring data to create relationships between tables for insightful analysis.
+
 Visualization Design: Crafting clear, intuitive visuals tailored to specific business questions.
+
 Dashboard Creation: Building interactive dashboards that highlight key metrics and insights.
+
 Storytelling with Data: Using data to tell a cohesive story, guiding stakeholders toward informed decisions.
 
 Tools Used
 
 Power BI: Data modeling, DAX, interactive visuals
+
 Tableau: Advanced visualizations and storytelling
+
 Excel: Data analysis, pivot tables, charts
+
 Python: Data preprocessing and integration with visualization tools
 
 Getting Started
