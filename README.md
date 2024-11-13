@@ -24,7 +24,3 @@ Python: Data preprocessing and integration with visualization tools
 Getting Started
 
 To view the Power BI reports, download the .pbix files from each project folder and open them in Power BI Desktop.
-
-License
-
-This project is licensed under the MIT License.
