@@ -21,7 +21,6 @@ Welcome to my **DataViz** repository! This collection showcases my data visualiz
 ## Tools Used
 
 - **Power BI**: Data modeling, DAX, interactive visuals.
-- **Tableau**: Advanced visualizations and storytelling.
 - **Excel**: Data analysis, pivot tables, charts.
 - **Python**: Data preprocessing and integration with visualization tools.
 - **R**: Social network analysis with visualization tools.
