@@ -28,7 +28,6 @@ The purpose of this project is to:
 - **Pandas**: Data manipulation and analysis.
 - **Matplotlib and Seaborn**: Data visualization.
 - **SciPy**: Statistical analysis.
-- **Jupyter Notebook**: Environment to write and run Python code interactively.
 
 ## Project Components
 1. **Data Import and Cleaning**
